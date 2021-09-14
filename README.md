@@ -11,3 +11,7 @@ Solution
 LeNet-5 architecture with dropout, regularization and hyperparameter search, achieving 0.913 test set accuracy.
 Code is availabale in [Traffic_Sign_Classifier.ipynb](Traffic_Sign_Classifier.ipynb), a detailed
 writeup is in [writeup.md](writeup.md).
+
+Classes trained:
+
+![Traffic signs](examples/color_images.png)
